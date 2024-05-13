@@ -1,4 +1,4 @@
 # POS-NCR-Cencosud
-Featured
+Proyecto Destacado
 
 In Progress...
