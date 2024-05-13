@@ -1,4 +1,3 @@
 # POS-NCR-Cencosud
-Proyecto Destacado
-
+- Modernización de equipos y tecnólogias en las lineas de cajas y sistemas de impresiones de flejes (POS NCR / ASLS) en las unidades de negocio de Supermercados (Jumbo , Disco, VEA) y MDH (Easy)
 In Progress...
